@@ -3,6 +3,7 @@
 Working sample of OpenId Connect 
 
 Add user secret file:
+```json
 {
     "Idp": {
         "Authority": "https://xxx",
@@ -10,3 +11,4 @@ Add user secret file:
         "CustomScope": "zzz"
     }
 }
+```
