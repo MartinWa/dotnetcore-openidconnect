@@ -1,6 +1,6 @@
-# dotnetcore-openidconnect
+# aspnetcore-openidconnect
 
-Working sample of OpenId Connect 
+Working sample of ASP.NET Core OpenId Connect 
 
 Add user secret file:
 ```json
